@@ -1,0 +1,9 @@
+{
+  "name": "1071_greatest_common_divisior_of_strings",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
