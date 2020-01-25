@@ -70,3 +70,6 @@ print('ansStr',  ansStr)
 
 # Runtime: 48 ms, faster than 10.65% of Python3 online submissions for Greatest Common Divisor of Strings.
 # Memory Usage: 12.7 MB, less than 100.00% of Python3 online submissions for Greatest Common Divisor of Strings.
+
+# Runtime: 36 ms, faster than 30.45% of Python3 online submissions for Greatest Common Divisor of Strings.
+# Memory Usage: 12.8 MB, less than 100.00% of Python3 online submissions for Greatest Common Divisor of Strings.
